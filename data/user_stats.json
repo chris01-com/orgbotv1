@@ -1,0 +1,74 @@
+{
+  "1315585696647483404_1266086795091906664": {
+    "user_id": 1315585696647483404,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 2,
+    "quests_accepted": 2,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-11T16:22:00.839651",
+    "last_quest_date": "2025-07-11T16:36:31.842441"
+  },
+  "962932004373033000_1266086795091906664": {
+    "user_id": 962932004373033000,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 4,
+    "quests_accepted": 5,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-11T22:59:51.319499",
+    "last_quest_date": "2025-07-13T06:03:38.449523"
+  },
+  "1192089605600710787_1266086795091906664": {
+    "user_id": 1192089605600710787,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 0,
+    "quests_accepted": 1,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-12T09:47:10.312799",
+    "last_quest_date": "2025-07-12T09:47:10.332709"
+  },
+  "1239337118652960810_1266086795091906664": {
+    "user_id": 1239337118652960810,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 1,
+    "quests_accepted": 2,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-12T09:56:18.864829",
+    "last_quest_date": "2025-07-12T12:05:28.389864"
+  },
+  "282274604041502721_1266086795091906664": {
+    "user_id": 282274604041502721,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 1,
+    "quests_accepted": 2,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-12T16:01:11.998631",
+    "last_quest_date": "2025-07-12T16:13:11.445162"
+  },
+  "1125075802749403220_1266086795091906664": {
+    "user_id": 1125075802749403220,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 0,
+    "quests_accepted": 1,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-13T06:24:05.027079",
+    "last_quest_date": "2025-07-13T06:24:05.044107"
+  },
+  "1066149415129206835_1266086795091906664": {
+    "user_id": 1066149415129206835,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 0,
+    "quests_accepted": 1,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-13T09:24:37.465355",
+    "last_quest_date": "2025-07-13T09:24:37.489142"
+  },
+  "407989951557402634_1266086795091906664": {
+    "user_id": 407989951557402634,
+    "guild_id": 1266086795091906664,
+    "quests_completed": 1,
+    "quests_accepted": 2,
+    "quests_rejected": 0,
+    "first_quest_date": "2025-07-13T10:11:16.092767",
+    "last_quest_date": "2025-07-13T11:01:29.587869"
+  }
+}
